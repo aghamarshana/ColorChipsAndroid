@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ColorChips</string>
+    <string name="action_settings">Settings</string>
+    <string name="color1">Red</string>
+    <string name="color2">Yellow</string>
+    <string name="color3">Orange</string>
+    <string name="color4">Blue</string>
+    <string name="color5">Green</string>
+    <string name="submit">Check</string>
+    <string name="clearButton">Clear</string>
+    <string name="shown">Click the Start Color of the MasterPanel</string>
+</resources>
